@@ -1,6 +1,7 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Bienvenue à l'école Diwan de Lannion
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+
+Une école associative, laïque, gratuite et ouverte à tous dont la langue de vie et d'enseignement est le breton. Cette immersion  en langue bretonne permet aux enfants de comprendre, de communiquer, de penser et de créer en breton aussi bien qu'en français.
